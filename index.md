@@ -11,4 +11,7 @@ Como é um espaço simples, não espere muitas animações, luzes piscando e out
 Ainda preciso começar a escrever sobre algumas coisas, e por enquanto não teremos nada mais do que esse texto !
 
 
-//comentário na brenchv2
+//comentário na branch blogv2
+
+
+//Exemplo de comentário apenas colocado na branch blogv2.
