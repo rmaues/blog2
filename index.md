@@ -9,3 +9,6 @@ Este blog vai ser usado apenas como um espaço para colocar as coisas que tenho 
 Como é um espaço simples, não espere muitas animações, luzes piscando e outros malabarismos que podem ser vistos em outros lugares, o objetivo é simples, apenas colocar um sentido ao que tenho aprendido, nada mais.
 
 Ainda preciso começar a escrever sobre algumas coisas, e por enquanto não teremos nada mais do que esse texto !
+
+
+//comentário na brenchv2
