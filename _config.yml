@@ -1,6 +1,6 @@
 title: Rodrigo Rocha
 logo: /assets/img/Yoda.png
 description: Apenas um espaço para colocar o venho aprendendo.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
