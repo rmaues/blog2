@@ -3,4 +3,4 @@ logo: /assets/img/Yoda.png
 description: Aprender você deve, compartilhar sua obrigação é!
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
